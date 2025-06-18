@@ -367,6 +367,11 @@ nav a:hover {
         grid-template-columns: 1fr;
         display: flex;
         overflow: hidden;
+        padding-bottom: 40px;
+    }
+
+    .grid h2 {
+        padding: 40px 0 0;
     }
 
     .grid-item {
